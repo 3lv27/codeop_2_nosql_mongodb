@@ -1,7 +1,7 @@
-# Data Warehousing with Postgres
+# Playing with MongoDB
 
 ## Introduction
-MONGODB Playground
+MongoDB Playground
 
 
 ## Getting started
